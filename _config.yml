@@ -74,7 +74,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -87,6 +86,6 @@ purpose:
   - type: contact
     url: 'mailto:drpaulosilvaesousa@gmail.com'
     label: Contact me
-  - type: internal
-    label: '1'
-    item: 3bdc58e3-b136-4812-9438-cbf7462ef270
+  - type: external
+    label: Lounge Just Relax
+    url: 'http://loungejustrelax.blogspot.pt'
