@@ -29,6 +29,9 @@ navigation:
   - name: Paulo Silva eSousa
     url: 'https://thegrid.io/paulosilvaesousa.com'
     type: external
+  - name: CORPORATE
+    id: 46b3f8a8-1268-41ce-b265-0608cc9ca597
+    type: content
 favicon: null
 title: Paulo Silva e Sousa
 content:
@@ -40,19 +43,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/188c76dc-a973-4a63-9b1a-fd62dd9f4197.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -64,19 +67,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0bdbc9f-cfce-4411-b96f-24dd04ff7dd7.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
