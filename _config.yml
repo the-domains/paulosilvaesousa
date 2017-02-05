@@ -17,7 +17,7 @@ author:
   email: drpaulosilvaesousa@gmail.com
   url: 'https://paulosilvaesousa.com'
 name: paulosilvaesousa
-url: 'https://thegrid.ai/paulosilvaesousa.com'
+url: 'https://paulosilvaesousa.com/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -29,8 +29,7 @@ navigation:
   - name: Paulo Silva eSousa
     url: 'https://thegrid.io/paulosilvaesousa.com'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cffeebc-9391-47d8-a130-a9354fcc73a1.jpg
+favicon: null
 title: Paulo Silva e Sousa
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
