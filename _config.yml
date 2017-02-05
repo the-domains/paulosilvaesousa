@@ -32,31 +32,7 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cffeebc-9391-47d8-a130-a9354fcc73a1.jpg
 title: Paulo Silva e Sousa
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/333d72ac-4d8b-4709-9505-f0ff91dd5d5a.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/333d72ac-4d8b-4709-9505-f0ff91dd5d5a.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: No meu ângulo de visão
 purpose:
   - type: contact
