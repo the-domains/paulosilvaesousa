@@ -27,7 +27,7 @@ colors:
     - 'hsl(0,0%,20%)'
 navigation:
   - name: Paulo Silva eSousa
-    url: 'http://paulosilvaesousa.com'
+    url: 'https://thegrid.io/paulosilvaesousa.com'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cffeebc-9391-47d8-a130-a9354fcc73a1.jpg
