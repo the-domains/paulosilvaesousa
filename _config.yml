@@ -27,7 +27,7 @@ colors:
     - 'hsl(0,0%,20%)'
 navigation:
   - name: Paulo Silva eSousa
-    url: 'https://thegrid.io/paulosilvaesousa.com'
+    url: 'http://thegrid.io/paulosilvaesousa.com'
     type: external
   - name: VENDAS JUDICIAIS
     id: 46b3f8a8-1268-41ce-b265-0608cc9ca597
