@@ -115,3 +115,5 @@ purpose:
   - type: external
     label: Lounge Just Relax
     url: 'http://loungejustrelax.blogspot.pt'
+content_rating:
+  adult: false
