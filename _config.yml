@@ -30,7 +30,7 @@ navigation:
     url: 'http://thegrid.io/paulosilvaesousa.com'
     type: external
 favicon: null
-title: In my angle of vision
+title: My angle of vision
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -73,7 +73,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
