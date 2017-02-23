@@ -52,7 +52,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -70,3 +69,5 @@ purpose:
     label: Contact me
 content_rating:
   adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/40269f82-0c68-4112-8038-227c7180ca7a.png
