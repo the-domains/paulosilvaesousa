@@ -138,6 +138,6 @@ purpose:
     label: No Meu Ângulo de Visão
   - type: contact
     url: 'mailto:drpaulosilvaesousa@gmail.com'
-    label: 'Contact me :)'
+    label: Contact me
 content_rating:
   adult: false
