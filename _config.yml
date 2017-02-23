@@ -132,9 +132,6 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: No meu ângulo de visão
-purpose:
-  - type: external
-    label: Lounge Just Relax
-    url: 'http://loungejustrelax.blogspot.pt'
+purpose: []
 content_rating:
   adult: false
