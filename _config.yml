@@ -136,5 +136,8 @@ purpose:
   - type: external
     url: 'http://nomeuangulodevisao.blogspot.pt'
     label: No Meu Ângulo de Visão
+  - type: contact
+    url: 'mailto:drpaulosilvaesousa@gmail.com'
+    label: 'Contact me :)'
 content_rating:
   adult: false
