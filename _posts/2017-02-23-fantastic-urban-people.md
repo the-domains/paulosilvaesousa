@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: Fantástic Urban People
-dateModified: '2017-02-23T21:38:11.800Z'
-datePublished: '2017-02-23T21:38:12.606Z'
+dateModified: '2017-02-23T22:49:38.065Z'
+datePublished: '2017-02-23T22:49:38.670Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-02-23-fantastic-urban-people.md
 starred: false
 datePublishedOriginal: '2017-02-23T21:38:12.606Z'
-sourcePath: _posts/2017-02-23-fantastic-urban-people.md
 _type: Blurb
 
 ---
