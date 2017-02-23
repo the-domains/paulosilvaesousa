@@ -30,7 +30,7 @@ navigation:
     url: 'http://thegrid.io/paulosilvaesousa.com'
     type: external
 favicon: null
-title: My angle of vision
+title: My Angle of Vision
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
