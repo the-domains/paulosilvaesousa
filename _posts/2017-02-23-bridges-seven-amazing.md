@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: Bridges Seven amazing
-dateModified: '2017-02-23T23:28:55.130Z'
-datePublished: '2017-02-23T23:28:57.206Z'
+dateModified: '2017-02-23T23:29:29.525Z'
+datePublished: '2017-02-23T23:29:29.935Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-02-23-bridges-seven-amazing.md
 starred: false
 datePublishedOriginal: '2017-02-23T23:28:57.206Z'
-sourcePath: _posts/2017-02-23-bridges-seven-amazing.md
 _type: Blurb
 
 ---
