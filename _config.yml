@@ -132,6 +132,9 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Paulo silva e Sousa
-purpose: []
+purpose:
+  - type: external
+    url: 'http://nomeuangulodevisao.blogspot.pt'
+    label: No Meu Ângulo de Visão
 content_rating:
   adult: false
