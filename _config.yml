@@ -62,6 +62,9 @@ purpose:
   - type: contact
     url: 'mailto:drpaulosilvaesousa@gmail.com'
     label: Contact me
+  - type: external
+    url: 'http://paulosilvaesousaipaper16031970.blogspot.com'
+    label: Welcome
 content_rating:
   adult: false
 logo: >-
