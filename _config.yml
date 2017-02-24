@@ -59,9 +59,6 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Porto, Portugal'
 purpose:
-  - type: contact
-    url: 'mailto:drpaulosilvaesousa@gmail.com'
-    label: Contact me
   - type: external
     url: 'http://paulosilvaesousaipaper16031970.blogspot.com'
     label: Welcome
