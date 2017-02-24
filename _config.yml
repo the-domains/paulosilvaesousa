@@ -1,17 +1,17 @@
-typography_spectrum: 0.9852094876114279
+layout_spectrum: 0.9251495455145504
+typography_spectrum: 0.5751991292759592
 color:
   brandColors:
-    - '#DDDCC5'
-    - '#958976'
-    - '#611427'
-    - '#1D2326'
-    - '#6A6A61'
-  brandStrength: 0.14005911140702665
-  lightness: 0.28538953070528805
-  saturation: 0.5324569381773472
-  rhythmicContrast: 0.2501745936460793
+    - '#7C9DA1'
+    - '#B4C6CD'
+    - '#323335'
+    - '#0B0C07'
+    - '#A46F5A'
+  brandStrength: 0.7245895981994264
+  lightness: 0.9484686444099476
+  saturation: 0.8824335126710668
+  rhythmicContrast: 0.5371438235521206
 github: true
-layout_spectrum: 0.009247056674212217
 author:
   name: Paulo Silva e Sousa
   email: drpaulosilvaesousa@gmail.com
@@ -50,7 +50,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
