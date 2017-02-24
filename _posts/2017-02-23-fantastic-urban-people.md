@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Fantástic Urban People
-dateModified: '2017-02-23T23:29:29.525Z'
-datePublished: '2017-02-23T23:29:30.293Z'
+dateModified: '2017-02-24T00:28:00.688Z'
+datePublished: '2017-02-24T00:28:01.924Z'
 title: ''
 author: []
 publisher: {}
