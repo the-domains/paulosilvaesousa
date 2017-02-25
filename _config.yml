@@ -1,5 +1,6 @@
-layout_spectrum: 0.7023711210619289
 typography_spectrum: 0.8698299291976128
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#7C9DA1'
@@ -12,10 +13,13 @@ color:
   saturation: 0.23926080043427647
   rhythmicContrast: 0.11232217954195077
 github: true
+layout_spectrum: 0.7023711210619289
 author:
   name: Paulo Silva e Sousa
   email: drpaulosilvaesousa@gmail.com
   url: 'https://paulosilvaesousa.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/40269f82-0c68-4112-8038-227c7180ca7a.png
 name: PauloSilvaeSousa
 url: 'https://paulosilvaesousa.com/'
 colors:
@@ -29,6 +33,9 @@ navigation:
   - name: Paulo Silva eSousa
     url: 'http://thegrid.io/paulosilvaesousa.com'
     type: external
+  - name: LOUNGE JUST RELAX
+    url: 'http://loungejustrelax.blogspot.pt'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c215055-e0a9-4b18-8ae8-f9b17c45b136.jpg
 title: BUSINESS & CORPORATE
@@ -41,19 +48,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/c429fb60-e479-4a70-84c2-84d0da0828fe.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -65,7 +72,3 @@ purpose:
   - type: external
     url: 'http://vendapornegociacaoparticular.blogspot.pt'
     label: JUDICIAL SALES
-content_rating:
-  adult: false
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/40269f82-0c68-4112-8038-227c7180ca7a.png
