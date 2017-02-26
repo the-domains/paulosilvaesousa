@@ -1,16 +1,16 @@
 ---
 description: ''
 author: []
-datePublished: '2017-02-26T18:43:05.932Z'
-dateModified: '2017-02-26T18:43:05.355Z'
+datePublished: '2017-02-26T18:47:25.022Z'
+dateModified: '2017-02-26T18:47:24.778Z'
 title: Corporate Holdings Management Incorporated
 publisher: {}
 via: {}
 inFeed: true
 isBasedOnUrl: ''
-starred: false
-datePublishedOriginal: '2017-02-26T18:43:05.932Z'
 sourcePath: _posts/2017-02-26-corporate-holdings-management-incorporated.md
+datePublishedOriginal: '2017-02-26T18:47:25.022Z'
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
