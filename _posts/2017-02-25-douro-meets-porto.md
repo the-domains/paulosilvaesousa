@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-02-25T21:32:55.962Z'
-datePublished: '2017-02-25T21:32:56.775Z'
-title: ''
+description: You meet both
+dateModified: '2017-02-26T13:23:13.699Z'
+datePublished: '2017-02-26T13:23:14.191Z'
+title: Douro meet´s Porto
 author: []
 publisher: {}
 via: {}
