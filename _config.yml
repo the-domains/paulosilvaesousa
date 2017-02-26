@@ -33,9 +33,6 @@ navigation:
   - name: Paulo Silva eSousa
     url: 'http://paulosilvaesousa.com'
     type: external
-  - name: PORTO & DOURO meet´s you
-    id: 565e4129-72c4-40db-ba7c-b7d6c729188d
-    type: content
   - name: LOUNGE JUST RELAX
     url: 'http://loungejustrelax.blogspot.pt'
     type: external
