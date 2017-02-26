@@ -1,5 +1,6 @@
-layout_spectrum: 0.7940703109663791
 typography_spectrum: 0.11628069999839852
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#7C9DA1'
@@ -11,9 +12,8 @@ color:
   lightness: 0.8737632419262081
   saturation: 0.09422166197533065
   rhythmicContrast: 0.5833066385646931
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.7940703109663791
 author:
   name: Paulo Silva e Sousa
   email: drpaulosilvaesousa@gmail.com
@@ -36,6 +36,9 @@ navigation:
   - name: LOUNGE JUST RELAX
     url: 'http://loungejustrelax.blogspot.pt'
     type: external
+  - name: PORTO & DOURO meet´s you
+    id: 565e4129-72c4-40db-ba7c-b7d6c729188d
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c215055-e0a9-4b18-8ae8-f9b17c45b136.jpg
 title: CORPORATE
