@@ -38,7 +38,7 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c215055-e0a9-4b18-8ae8-f9b17c45b136.jpg
-title: CORPORATE meet PORTO
+title: CORPORATE & PORTO
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
