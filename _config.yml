@@ -68,7 +68,7 @@ description: 'Porto, Portugal'
 purpose:
   - type: external
     url: 'http://ipaper-to-go-porto-one.blogspot.com'
-    label: Corporate
+    label: 'http://ipaper-to-go-porto-one.blogspot.com'
   - type: external
     url: >-
       https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
