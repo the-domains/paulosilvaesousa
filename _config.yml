@@ -65,8 +65,4 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Porto, Portugal'
-purpose:
-  - type: external
-    url: >-
-      https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
-    label: Judicial Sales
+purpose: []
