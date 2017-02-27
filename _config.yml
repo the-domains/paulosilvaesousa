@@ -1,6 +1,5 @@
-typography_spectrum: 0.11628069999839852
-content_rating:
-  adult: false
+layout_spectrum: 0.6971262691220692
+typography_spectrum: 0.1381012516817318
 color:
   brandColors:
     - '#7C9DA1'
@@ -8,12 +7,13 @@ color:
     - '#323335'
     - '#0B0C07'
     - '#A46F5A'
-  brandStrength: 0.1441811579681638
-  lightness: 0.8737632419262081
-  saturation: 0.09422166197533065
-  rhythmicContrast: 0.5833066385646931
+  brandStrength: 0.5731494464872792
+  lightness: 0.22584690647642358
+  saturation: 0.3130876378883783
+  rhythmicContrast: 0.6360259102599345
+content_rating:
+  adult: false
 github: true
-layout_spectrum: 0.7940703109663791
 author:
   name: Paulo Silva e Sousa
   email: drpaulosilvaesousa@gmail.com
