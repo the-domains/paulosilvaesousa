@@ -1,44 +1,3 @@
-layout_spectrum: 0.046903816362621614
-typography_spectrum: 0.1933128272516118
-color:
-  brandColors:
-    - '#7C9DA1'
-    - '#B4C6CD'
-    - '#323335'
-    - '#0B0C07'
-    - '#A46F5A'
-  brandStrength: 0.7891227649406779
-  lightness: 0.8101629791245566
-  saturation: 0.8290674952659203
-  rhythmicContrast: 0.12389125454009021
-content_rating:
-  adult: false
-github: true
-author:
-  name: Paulo Silva e Sousa
-  email: drpaulosilvaesousa@gmail.com
-  url: 'https://paulosilvaesousa.com'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/40269f82-0c68-4112-8038-227c7180ca7a.png
-name: Paulo Silva e Sousa
-url: 'https://paulosilvaesousa.com/'
-colors:
-  brandColors:
-    - 'hsl(0,0%,100%)'
-    - 'hsl(0,0%,80%)'
-    - 'hsl(0,0%,60%)'
-    - 'hsl(0,0%,30%)'
-    - 'hsl(0,0%,20%)'
-navigation:
-  - name: Paulo Silva eSousa
-    url: 'http://paulosilvaesousa.com'
-    type: external
-  - name: LOUNGE JUST RELAX
-    url: 'http://loungejustrelax.blogspot.pt'
-    type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c215055-e0a9-4b18-8ae8-f9b17c45b136.jpg
-title: PORTO & CORPORATE
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -48,27 +7,82 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/c429fb60-e479-4a70-84c2-84d0da0828fe.jpg
     metadata:
-      datePublished: null
-      keywords: []
+      description: ''
+      '@context': 'http://schema.org'
       related: []
       author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
+      keywords: []
       publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        favicon: null
+      app_links: []
+      '@type': MediaObject
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Porto, Portugal'
+url: 'https://paulosilvaesousa.com/'
+title: PORTO & CORPORATE
+content_rating:
+  adult: false
+navigation:
+  - url: 'http://paulosilvaesousa.com'
+    name: Paulo Silva eSousa
+    type: external
+  - url: 'http://loungejustrelax.blogspot.pt'
+    name: LOUNGE JUST RELAX
+    type: external
+layout_spectrum: 0.04690381636262161
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c215055-e0a9-4b18-8ae8-f9b17c45b136.jpg
+author:
+  url: 'https://paulosilvaesousa.com'
+  name: Paulo Silva e Sousa
+  email: drpaulosilvaesousa@gmail.com
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: My Angle of Vision
 purpose:
-  - type: contact
-    url: 'mailto:drpaulosilvaesousa@gmail.com'
+  - url: 'mailto:drpaulosilvaesousa@gmail.com'
+    type: contact
     label: Contact me
-  - type: external
-    url: 'http://nomeuangulodevisao.blogspot.pt'
+  - url: 'http://nomeuangulodevisao.blogspot.pt'
+    type: external
     label: LAW SALES
+analytics: {}
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+opengraph: {}
+color:
+  brandStrength: 0.7891227649406779
+  lightness: 0.8101629791245566
+  saturation: 0.8290674952659203
+  rhythmicContrast: 0.1238912545400902
+  brandColors:
+    - '#7C9DA1'
+    - '#B4C6CD'
+    - '#323335'
+    - '#0B0C07'
+    - '#A46F5A'
+typography_spectrum: 0.1933128272516118
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/40269f82-0c68-4112-8038-227c7180ca7a.png
