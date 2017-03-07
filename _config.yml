@@ -25,15 +25,15 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Porto, Portugal'
 url: 'https://paulosilvaesousa.com/'
-title: PORTO & CORPORATE
+title: CORPORATE & JUDICIAL SALES
 content_rating:
   adult: false
 navigation:
-  - url: 'http://paulosilvaesousa.com'
-    name: Paulo Silva eSousa
+  - name: Paulo Silva eSousa
+    url: 'http://paulosilvaesousa.com'
     type: external
-  - url: 'http://loungejustrelax.blogspot.pt'
-    name: LOUNGE JUST RELAX
+  - name: LOUNGE JUST RELAX
+    url: 'http://loungejustrelax.blogspot.pt'
     type: external
 layout_spectrum: 0.04690381636262161
 github: true
