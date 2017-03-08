@@ -1,3 +1,16 @@
+layout_spectrum: 0.04917661733150777
+typography_spectrum: 0.7666205844177062
+color:
+  brandStrength: 0.7896369818323246
+  lightness: 0.8110965127258165
+  saturation: 0.8226451411730803
+  rhythmicContrast: 0.32611085085760766
+  brandColors:
+    - '#7C9DA1'
+    - '#B4C6CD'
+    - '#323335'
+    - '#0B0C07'
+    - '#A46F5A'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -35,7 +48,6 @@ navigation:
   - name: LOUNGE JUST RELAX
     url: 'http://loungejustrelax.blogspot.pt'
     type: external
-layout_spectrum: 0.04690381636262161
 github: true
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c215055-e0a9-4b18-8ae8-f9b17c45b136.jpg
@@ -72,17 +84,5 @@ collections:
     permalink:
       path: '/:title/'
 opengraph: {}
-color:
-  brandStrength: 0.7891227649406779
-  lightness: 0.8101629791245566
-  saturation: 0.8290674952659203
-  rhythmicContrast: 0.1238912545400902
-  brandColors:
-    - '#7C9DA1'
-    - '#B4C6CD'
-    - '#323335'
-    - '#0B0C07'
-    - '#A46F5A'
-typography_spectrum: 0.1933128272516118
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/40269f82-0c68-4112-8038-227c7180ca7a.png
