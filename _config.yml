@@ -55,7 +55,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: JUDICIAL SALES & CORP
+title: CORPORATE & JUDICIAL SALES
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
