@@ -1,5 +1,6 @@
-layout_spectrum: 0.04917661733150777
 typography_spectrum: 0.7666205844177062
+content_rating:
+  adult: false
 color:
   brandStrength: 0.7896369818323246
   lightness: 0.8110965127258165
@@ -11,50 +12,18 @@ color:
     - '#323335'
     - '#0B0C07'
     - '#A46F5A'
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c429fb60-e479-4a70-84c2-84d0da0828fe.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c429fb60-e479-4a70-84c2-84d0da0828fe.jpg
-    metadata:
-      description: ''
-      '@context': 'http://schema.org'
-      related: []
-      author: []
-      keywords: []
-      publisher:
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        favicon: null
-      app_links: []
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-description: 'Porto, Portugal'
-url: 'https://paulosilvaesousa.com/'
-title: JUDICIAL SALES & CORP
-content_rating:
-  adult: false
-navigation:
-  - name: Paulo Silva eSousa
-    url: 'http://paulosilvaesousa.com'
-    type: external
-  - name: LOUNGE JUST RELAX
-    url: 'http://loungejustrelax.blogspot.pt'
-    type: external
 github: true
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c215055-e0a9-4b18-8ae8-f9b17c45b136.jpg
+opengraph: {}
+layout_spectrum: 0.04917661733150777
+analytics: {}
 author:
   url: 'https://paulosilvaesousa.com'
   name: Paulo Silva e Sousa
   email: drpaulosilvaesousa@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/40269f82-0c68-4112-8038-227c7180ca7a.png
+name: My Angle of Vision
+url: 'https://paulosilvaesousa.com/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -62,15 +31,18 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: My Angle of Vision
-purpose:
-  - url: 'mailto:drpaulosilvaesousa@gmail.com'
-    type: contact
-    label: Contact me
-  - url: 'http://nomeuangulodevisao.blogspot.pt'
+navigation:
+  - name: Paulo Silva eSousa
+    url: 'http://paulosilvaesousa.com'
     type: external
-    label: LAW SALES
-analytics: {}
+  - name: LOUNGE JUST RELAX
+    url: 'http://loungejustrelax.blogspot.pt'
+    type: external
+  - name: CORPORATE
+    url: 'https://ipaper-to-go-one.blogspot.com'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c215055-e0a9-4b18-8ae8-f9b17c45b136.jpg
 collections:
   - index:
       navigable: true
@@ -83,6 +55,37 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-opengraph: {}
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/40269f82-0c68-4112-8038-227c7180ca7a.png
+title: JUDICIAL SALES & CORP
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c429fb60-e479-4a70-84c2-84d0da0828fe.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c429fb60-e479-4a70-84c2-84d0da0828fe.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        favicon: null
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'Porto, Portugal'
+purpose:
+  - url: 'mailto:drpaulosilvaesousa@gmail.com'
+    type: contact
+    label: Contact me
+  - url: 'http://nomeuangulodevisao.blogspot.pt'
+    type: external
+    label: LAW SALES
