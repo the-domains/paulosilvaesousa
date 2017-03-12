@@ -83,7 +83,7 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Porto, Portugal'
 purpose:
-  - url: 'http://ipaper-to-go-one.blogspot.com'
+  - url: 'https://drive.google.com/open?id=0B87Sc3Wpiiy_YUREMlhzZnFqYnc'
     type: external
     label: CORPORATE
   - url: 'http://nomeuangulodevisao.blogspot.pt'
