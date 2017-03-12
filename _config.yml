@@ -32,9 +32,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: CORPORATE
-    url: 'https://ipaper-to-go-one.blogspot.com'
-    type: external
   - name: Contact me
     url: 'https://drpaulosilvaesousa@gmail.com'
     type: external
