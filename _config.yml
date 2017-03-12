@@ -35,11 +35,11 @@ navigation:
   - name: CORPORATE
     url: 'https://ipaper-to-go-one.blogspot.com'
     type: external
-  - name: LOUNGE JUST RELAX
-    url: 'http://loungejustrelax.blogspot.pt'
-    type: external
   - name: Contact me
     url: 'https://drpaulosilvaesousa@gmail.com'
+    type: external
+  - name: LOUNGE JUST RELAX
+    url: 'http://loungejustrelax.blogspot.pt'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c215055-e0a9-4b18-8ae8-f9b17c45b136.jpg
