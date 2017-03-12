@@ -35,9 +35,6 @@ navigation:
   - name: CORPORATE
     url: 'https://ipaper-to-go-one.blogspot.com'
     type: external
-  - name: Paulo Silva eSousa
-    url: 'http://paulosilvaesousa.com'
-    type: external
   - name: LOUNGE JUST RELAX
     url: 'http://loungejustrelax.blogspot.pt'
     type: external
