@@ -83,9 +83,9 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Porto, Portugal'
 purpose:
-  - url: 'https://drive.google.com/open?id=0B87Sc3Wpiiy_YUREMlhzZnFqYnc'
+  - url: 'http://paulosilvaesousa.com'
     type: external
-    label: CORPORATE
+    label: 'http://paulosilvaesousa.com'
   - url: 'http://nomeuangulodevisao.blogspot.pt'
     type: external
     label: LAW SALES
