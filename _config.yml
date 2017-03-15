@@ -55,7 +55,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: OPORTO & YOU
+title: 'YOU, DOURO & OPORTO'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
