@@ -32,11 +32,11 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: 法律销售
-    url: 'http://nomeuangulodevisao.blogspot.pt'
-    type: external
   - name: Contact me
     url: 'https://drpaulosilvaesousa@gmail.com'
+    type: external
+  - name: 法律销售
+    url: 'http://nomeuangulodevisao.blogspot.pt'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c215055-e0a9-4b18-8ae8-f9b17c45b136.jpg
