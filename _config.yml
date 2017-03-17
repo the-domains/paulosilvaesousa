@@ -32,7 +32,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: VENDAS JUDICIAIS
+  - name: 法律销售
     url: 'http://nomeuangulodevisao.blogspot.pt'
     type: external
   - name: Contact me
