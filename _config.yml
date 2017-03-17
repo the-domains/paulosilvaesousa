@@ -80,7 +80,7 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Porto, Portugal'
 purpose:
-  - url: 'http://ipaper-to-go-two.blogspot.pt'
+  - url: 'http://paulosilvaesousa.com'
     type: external
     label: CORPORATE
   - url: 'http://nomeuangulodevisao.blogspot.pt'
