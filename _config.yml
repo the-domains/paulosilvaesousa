@@ -35,9 +35,6 @@ navigation:
   - name: Contact me
     url: 'https://drpaulosilvaesousa@gmail.com'
     type: external
-  - name: LOUNGE JUST RELAX
-    url: 'http://loungejustrelax.blogspot.pt'
-    type: external
   - name: 法律销售
     url: 'http://nomeuangulodevisao.blogspot.pt'
     type: external
