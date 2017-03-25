@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[OPORTO & YOU]]></title>
+        <description><![CDATA[OPORTO & YOU]]></description>
+        <link>http://paulosilvaesousa.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 25 Mar 2017 14:28:40 GMT</lastBuildDate>
+        <atom:link href="http://paulosilvaesousa.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/59afdcc0865723a0f0b006e57c2cfea9/croprotate.jpg?cropheight=396&cropwidth=584&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fca8f80c3-1ee8-452a-a2ae-5092eae3001d.jpg&x=8&y=0">]]></description>
+            <link>http://paulosilvaesousa.com</link>
+            <guid isPermaLink="false">d7402123-0d43-49b7-b53b-2e1f0e340f73</guid>
+            <pubDate>Sat, 25 Mar 2017 14:23:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
