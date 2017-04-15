@@ -83,3 +83,6 @@ purpose:
   - url: 'http://nomeuangulodevisao.blogspot.pt'
     type: external
     label: CORPORATE
+  - type: external
+    url: 'http://nomeuangulodevisao.blogspot.pt/'
+    label: JUDICIAL SALES
