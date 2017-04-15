@@ -82,7 +82,7 @@ description: 'Porto, Portugal'
 purpose:
   - url: 'http://paulosilvaesousa.com'
     type: external
-    label: CORPORATE
+    label: 'http://paulosilvaesousa.com'
   - url: 'http://nomeuangulodevisao.blogspot.pt'
     type: external
     label: LAW SALES
