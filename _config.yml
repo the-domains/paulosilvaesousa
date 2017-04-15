@@ -80,7 +80,7 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Porto, Portugal, CEE'
 purpose:
-  - url: 'http://nomeuangulodevisao.blogspot.pt'
+  - url: 'http://welcomepaulosilvaesousa.blogspot.pt'
     type: external
     label: CORPORATE
   - type: external
