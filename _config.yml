@@ -79,3 +79,6 @@ purpose:
   - type: internal
     label: CORPORATE
     item: aa9cfe5f-3bbf-4500-abe6-03ee1cbe5aab
+  - type: contact
+    url: 'mailto:drpaulosilvaesousa@gmail.com'
+    label: Contact me
