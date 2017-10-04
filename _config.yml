@@ -44,7 +44,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: OPORTO & YOU    Investor Relations
+title: ' OPORTO & YOU  Investor Relations'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
