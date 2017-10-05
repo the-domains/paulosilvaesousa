@@ -47,7 +47,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Real State Investements Portfólio OPORTO & YOU
+title: Best Real State Investements Portfólio OPORTO & YOU
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
