@@ -15,7 +15,8 @@ color:
 github: true
 opengraph: {}
 layout_spectrum: 0.04917661733150777
-analytics: {}
+analytics:
+  twitter: twitter-hashtag-button
 author:
   url: 'https://paulosilvaesousa.com'
   name: Paulo Sousa
