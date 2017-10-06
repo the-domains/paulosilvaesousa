@@ -31,7 +31,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Sales courts - Private negotiation - Art. 833 CPC
+  - name: Executive Sales court/  833 CPC
     url: 'http://nomeuangulodevisao.blogspot.pt/'
     type: external
 favicon: null
