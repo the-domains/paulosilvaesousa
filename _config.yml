@@ -79,9 +79,9 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Porto, Portugal, CEE'
 purpose:
-  - type: internal
-    label: CORPORATE
-    item: b9913c39-911a-4804-9fbf-e52f62ee82a1
+  - type: email
+    label: Contact me
+    url: 'mailto:drpaulosilvaesousa@gmail.com'
   - type: external
     url: 'http://nomeuangulodevisao.blogspot.pt/'
     label: Executive Sales Court / 833º CPC
