@@ -38,6 +38,9 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/drpauloasousa'
     type: external
+  - name: Contact Me
+    url: 'https://form#mail.google.com/mail/u/0/drpaulosilvaesousa@gmail.com'
+    type: external
 favicon: null
 collections:
   - index:
