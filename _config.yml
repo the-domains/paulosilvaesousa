@@ -34,6 +34,9 @@ navigation:
   - name: Executive Sales court/  833 CPC
     url: 'http://nomeuangulodevisao.blogspot.pt/'
     type: external
+  - name: Corporate
+    id: 89af9ad0-ef9c-4261-abf7-fea943b9db50
+    type: content
 favicon: null
 collections:
   - index:
