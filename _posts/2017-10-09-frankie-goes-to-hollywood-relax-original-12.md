@@ -4,7 +4,11 @@ author:
     url: 'https://www.youtube.com/user/Corrupt5358'
     avatar: {}
 related: []
-publisher: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+  domain: www.youtube.com
 keywords:
   - frankie
   - goes
@@ -54,22 +58,22 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: ''
-datePublished: '2017-10-09T23:29:55.031Z'
-dateModified: '2017-10-09T23:29:53.849Z'
+title: Frankie Goes To Hollywood - Relax (Original 12")
+datePublished: '2017-10-09T23:30:36.631Z'
+dateModified: '2017-10-09T23:30:35.961Z'
 via: {}
 inFeed: true
 hasPage: true
+sourcePath: _posts/2017-10-09-frankie-goes-to-hollywood-relax-original-12.md
 starred: false
 datePublishedOriginal: '2017-10-09T23:29:55.031Z'
-sourcePath: _posts/2017-10-09-frankie-goes-to-hollywood-relax-original-12.md
 url: frankie-goes-to-hollywood-relax-original-12/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/684df507-7a2d-4765-85cb-e29e6b882590.jpg)
-
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FQFLBIamw7SE%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQFLBIamw7SE&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQFLBIamw7SE%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/684df507-7a2d-4765-85cb-e29e6b882590.jpg)
 
 ---
