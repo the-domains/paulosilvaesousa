@@ -1,6 +1,6 @@
 ---
 author:
-  - name: Sir To You
+  - name: '" WITHOUT MUSIC, LIFE WOULD BE A MISTAKE." - FRIEDRICH NIETZSCHE'
     url: 'https://www.youtube.com/user/Corrupt5358'
     avatar: {}
 related: []
@@ -59,8 +59,8 @@ app_links:
     namespace: google
     type: ios
 title: Frankie Goes To Hollywood - Relax (Original 12")
-datePublished: '2017-10-09T23:30:56.972Z'
-dateModified: '2017-10-09T23:30:56.081Z'
+datePublished: '2017-10-11T00:05:27.522Z'
+dateModified: '2017-10-11T00:05:25.865Z'
 via: {}
 inFeed: true
 hasPage: true
