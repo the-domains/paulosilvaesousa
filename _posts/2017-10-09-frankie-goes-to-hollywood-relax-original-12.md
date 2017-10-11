@@ -1,8 +1,5 @@
 ---
-author:
-  - name: '" WITHOUT MUSIC, LIFE WOULD BE A MISTAKE." - FRIEDRICH NIETZSCHE'
-    url: 'https://www.youtube.com/user/Corrupt5358'
-    avatar: {}
+author: []
 related: []
 publisher:
   url: 'https://www.youtube.com/'
@@ -59,8 +56,8 @@ app_links:
     namespace: google
     type: ios
 title: Frankie Goes To Hollywood - Relax (Original 12")
-datePublished: '2017-10-11T00:05:39.892Z'
-dateModified: '2017-10-11T00:05:38.229Z'
+datePublished: '2017-10-11T00:07:52.971Z'
+dateModified: '2017-10-11T00:07:51.578Z'
 via: {}
 inFeed: true
 hasPage: true
