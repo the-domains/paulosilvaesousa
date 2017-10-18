@@ -35,6 +35,9 @@ navigation:
   - name: Corporate
     id: 89af9ad0-ef9c-4261-abf7-fea943b9db50
     type: content
+  - name: FORMS
+    url: 'https://goo.gl/forms/ptB5F2Gx0j3f3Z0t2'
+    type: external
 favicon: null
 collections:
   - index:
