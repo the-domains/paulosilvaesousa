@@ -22,7 +22,7 @@ author:
   name: Paulo Silva eSousa
   email: drpaulasousa@gmail.com
 logo: null
-name: CORPORATE & Paulo Silva e Sousa
+name: Paulo Silva e Sousa
 url: 'https://paulosilvaesousa.com/'
 colors:
   brandColors:
@@ -37,6 +37,9 @@ navigation:
     type: content
   - name: FORMS
     url: 'https://goo.gl/forms/ptB5F2Gx0j3f3Z0t2'
+    type: external
+  - name: Corporate
+    url: 'https://drive.google.com/open?id=0B87Sc3Wpiiy_Ynp5MWhETG8xSjg'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9bf7eba-128c-4af8-943d-28c1c1e5fe96.jpg
