@@ -35,6 +35,10 @@ navigation:
   - name: Corporate
     url: 'https://drive.google.com/open?id=0B87Sc3Wpiiy_Ynp5MWhETG8xSjg'
     type: external
+  - name: Corporate
+    url: >-
+      https://drive.google.com/drive/folders/0B87Sc3Wpiiy_Ynp5MWhETG8xSjg?usp=sharing
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9bf7eba-128c-4af8-943d-28c1c1e5fe96.jpg
 collections:
