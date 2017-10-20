@@ -32,7 +32,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Sales
+  - name: Corporate
     url: 'https://drive.google.com/open?id=0B87Sc3Wpiiy_Ynp5MWhETG8xSjg'
     type: external
 favicon: >-
