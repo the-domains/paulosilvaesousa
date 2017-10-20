@@ -32,9 +32,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: FORMS
-    url: 'https://goo.gl/forms/ptB5F2Gx0j3f3Z0t2'
-    type: external
   - name: Corporate
     url: 'https://drive.google.com/open?id=0B87Sc3Wpiiy_Ynp5MWhETG8xSjg'
     type: external
