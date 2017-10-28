@@ -1,20 +1,20 @@
-typography_spectrum: 0.7666205844177062
-content_rating:
-  adult: false
+layout_spectrum: 0.23738955755017258
+typography_spectrum: 0.7692417332021022
 color:
-  brandStrength: 0.7896369818323246
-  lightness: 0.8110965127258165
-  saturation: 0.8226451411730803
-  rhythmicContrast: 0.32611085085760766
+  brandStrength: 0.7812124917898696
+  lightness: 0.8183048999503182
+  saturation: 0.8283191510345234
+  rhythmicContrast: 0.3256689760836745
   brandColors:
     - '#7C9DA1'
     - '#B4C6CD'
     - '#323335'
     - '#0B0C07'
     - '#A46F5A'
+content_rating:
+  adult: false
 github: true
 opengraph: {}
-layout_spectrum: 0.04917661733150777
 analytics:
   twitter: 'https://twitter.com/drpauloasousa'
 author:
