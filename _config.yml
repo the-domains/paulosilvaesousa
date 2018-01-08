@@ -33,9 +33,6 @@ colors:
     - 'hsl(0,0%,20%)'
 navigation:
   - name: Corporate
-    url: 'https://drive.google.com/open?id=0B87Sc3Wpiiy_Ynp5MWhETG8xSjg'
-    type: external
-  - name: Corporate
     url: >-
       https://drive.google.com/drive/folders/0B87Sc3Wpiiy_Ynp5MWhETG8xSjg?usp=sharing
     type: external
