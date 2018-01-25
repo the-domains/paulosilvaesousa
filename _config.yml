@@ -46,31 +46,7 @@ collections:
     permalink:
       path: '/:title/'
 title: OPORTO & YOU Real State Investment Managements
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c429fb60-e479-4a70-84c2-84d0da0828fe.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c429fb60-e479-4a70-84c2-84d0da0828fe.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        favicon: null
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: 'Porto, Portugal, CEE'
 purpose:
   - type: email
