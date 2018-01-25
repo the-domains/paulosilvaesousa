@@ -31,11 +31,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: Corporate
-    url: >-
-      https://drive.google.com/drive/folders/0B87Sc3Wpiiy_Ynp5MWhETG8xSjg?usp=sharing
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/94e69b4e-d21c-41e4-97dd-4f4d0c039705.tiff
 collections:
