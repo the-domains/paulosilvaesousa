@@ -1,10 +1,10 @@
-layout_spectrum: 0.04771957116736339
-typography_spectrum: 0.7641693349018471
+layout_spectrum: 0.06006912870212725
+typography_spectrum: 0.7696217126258197
 color:
-  brandStrength: 0.9198687302491785
-  lightness: 0.8491959746591378
-  saturation: 0.3256243115496628
-  rhythmicContrast: 0.3239971984904444
+  brandStrength: 0.9125557902766078
+  lightness: 0.848118297125554
+  saturation: 0.7985140772966096
+  rhythmicContrast: 0.3265462791619103
   brandColors:
     - '#7C9DA1'
     - '#B4C6CD'
@@ -64,7 +64,6 @@ content:
         domain: s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
