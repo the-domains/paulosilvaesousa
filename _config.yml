@@ -31,10 +31,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: Teste 123
-    id: b9913c39-911a-4804-9fbf-e52f62ee82a1
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/94e69b4e-d21c-41e4-97dd-4f4d0c039705.tiff
 collections:
