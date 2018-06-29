@@ -32,7 +32,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/94e69b4e-d21c-41e4-97dd-4f4d0c039705.tiff
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/78d7605e-bd97-48aa-9197-95c62525f7da.jpg
 collections:
   - index:
       navigable: true
@@ -112,7 +112,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
