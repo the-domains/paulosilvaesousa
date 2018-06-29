@@ -1,15 +1,15 @@
 ---
 description: CORPORATE
 author: []
-datePublished: '2018-06-29T18:51:54.175Z'
-dateModified: '2018-06-29T18:51:35.944Z'
+datePublished: '2018-06-29T18:52:17.639Z'
+dateModified: '2018-06-29T18:52:17.301Z'
 title: ''
 publisher: {}
 via: {}
 inFeed: true
+sourcePath: _posts/2018-06-29-corporate.md
 starred: false
 datePublishedOriginal: '2018-06-29T18:51:54.175Z'
-sourcePath: _posts/2018-06-29-corporate.md
 _context: 'http://schema.org'
 _type: Article
 
