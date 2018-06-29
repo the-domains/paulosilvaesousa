@@ -1,20 +1,20 @@
-typography_spectrum: 0.18049641339274325
-content_rating:
-  adult: false
+layout_spectrum: 0.043536503923374534
+typography_spectrum: 0.8117678901382566
 color:
-  brandStrength: 0.9182553982398114
-  lightness: 0.5198882156774624
-  saturation: 0.8250224637598869
-  rhythmicContrast: 0.20322284777003277
+  brandStrength: 0.6592977543296938
+  lightness: 0.44970655714973146
+  saturation: 0.12545824557487475
+  rhythmicContrast: 0.6763040835464761
   brandColors:
     - '#7C9DA1'
     - '#B4C6CD'
     - '#323335'
     - '#0B0C07'
     - '#A46F5A'
+content_rating:
+  adult: false
 github: true
 opengraph: {}
-layout_spectrum: 0.20257608964624307
 analytics:
   twitter: 'https://twitter.com/drpauloasousa'
 author:
@@ -64,7 +64,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
